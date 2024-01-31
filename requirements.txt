@@ -1,0 +1,6 @@
+streamlit~=1.30.0
+streamlit_image_comparison~=0.0.4
+numpy~=1.26.3
+pillow~=10.2.0
+roboflow~=1.1.17
+av~=11.0.0
