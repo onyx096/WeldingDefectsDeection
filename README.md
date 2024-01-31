@@ -1,4 +1,4 @@
-# WeldingDefectsDeection
+# Welding Defects Deection
 Detection of defects on X-ray images using yolov8
 
 Product on hosting: https://welding-defects-detection.onrender.com
